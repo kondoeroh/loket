@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://kondoeroh.github.io/loketsitemap.xml
+Sitemap: https://kondoeroh.github.io/loket/sitemap.xml
